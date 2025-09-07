@@ -12,6 +12,25 @@ This dashboard was developed for the Contracts Team to **analyze and track contr
 - **Annex Insights** – Breakdowns by type (maintenance, resale, reschedule, parking, etc.).  
 - **Cycle Monitoring** – Full visibility into the contracts lifecycle, from initiation to client delivery.  
 
+## Dashboard Preview  
+### Prime Contracts  
+![Prime Contracts](prime_contracts.png)
+
+### Prime Contracts Handover  
+![Prime Contracts Handover](prime_handover.png)
+
+### Annex Contracts  
+![Annex Contracts](annex_contracts.png)
+
+### Annex Contracts Handover  
+![Annex Contracts Handover](annex_handover.png)
+
+### Annex Initiation  
+![Annex Initiation](annex_initiation.png)
+
+### Contracts Cycle  
+![Contracts Cycle](contracts_cycle.png)
+
 ## **Slide Titles & Descriptions**  
 
 1. **Prime Contracts**  
